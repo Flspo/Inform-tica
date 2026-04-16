@@ -6,3 +6,12 @@ Trabalho executado utilizando Canva: Confecção de slides e Apresentação do g
 ## Despesa e função com montagem de gráfico no excel
 Articulação de tabela e montagem de do gráfico baseado em dados abertos de São José dos Campos
 <img width="1017" height="453" alt="image" src="https://github.com/user-attachments/assets/76577835-2e7c-43e0-badc-4285716f647a" />
+## Despesa e montagem de gráfico no excel
+Criação de gráficos em relação a dados abertos da prefeitura de São José dos Campos
+COLOCAR AQUI A IMAGEM RS
+## Despesa e função no excel
+Reforço da aula do dia 12/03 de criação de gráficos em relação a dados abertos da prefeitura de São José dos Campos
+COLOCAR AQUI A IMAGEM RS
+## Fornecedores de SP com montagem de gráfico no excel
+Articulação de tabela e resposta de perguntas baseado em dados abertos de São Paulo
+<img width="475" height="442" alt="image" src="https://github.com/user-attachments/assets/c4ea4566-b46e-4005-90b8-6b9540154a3f" />
