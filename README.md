@@ -11,7 +11,7 @@ Criação de gráficos em relação a dados abertos da prefeitura de São José 
 <img width="1189" height="557" alt="image" src="https://github.com/user-attachments/assets/f2171eee-e4db-4fde-ae12-b363d83f33c3" />
 ## (13/03) Despesa e função no excel
 Reforço da aula do dia 12/03 de criação de gráficos em relação a dados abertos da prefeitura de São José dos Campos
-COLOCAR AQUI A IMAGEM RS
+<img width="882" height="512" alt="image" src="https://github.com/user-attachments/assets/7c094773-d627-422e-825d-87f2f49983df" />
 ## (10/04) Fornecedores de SP com montagem de gráfico no excel
 Articulação de tabela e resposta de perguntas baseado em dados abertos de São Paulo
 <img width="475" height="442" alt="image" src="https://github.com/user-attachments/assets/c4ea4566-b46e-4005-90b8-6b9540154a3f" />
