@@ -8,7 +8,7 @@ Articulação de tabela e montagem de do gráfico baseado em dados abertos de S�
 <img width="1017" height="453" alt="image" src="https://github.com/user-attachments/assets/76577835-2e7c-43e0-badc-4285716f647a" />
 ## (12/03) Despesa e montagem de gráfico no excel
 Criação de gráficos em relação a dados abertos da prefeitura de São José dos Campos
-COLOCAR AQUI A IMAGEM RS
+<img width="1189" height="557" alt="image" src="https://github.com/user-attachments/assets/f2171eee-e4db-4fde-ae12-b363d83f33c3" />
 ## (13/03) Despesa e função no excel
 Reforço da aula do dia 12/03 de criação de gráficos em relação a dados abertos da prefeitura de São José dos Campos
 COLOCAR AQUI A IMAGEM RS
