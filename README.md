@@ -12,8 +12,15 @@ Criação de gráficos em relação a dados abertos da prefeitura de São José 
 ## (13/03) Despesa e função no excel
 Reforço da aula do dia 12/03 de criação de gráficos em relação a dados abertos da prefeitura de São José dos Campos
 <img width="882" height="512" alt="image" src="https://github.com/user-attachments/assets/7c094773-d627-422e-825d-87f2f49983df" />
-## (10/04) Fornecedores de SP com montagem de gráfico no excel
+## (09/04) Fornecedores de SP com montagem de gráfico no excel
 Articulação de tabela e resposta de perguntas baseado em dados abertos de São Paulo
 <img width="475" height="442" alt="image" src="https://github.com/user-attachments/assets/c4ea4566-b46e-4005-90b8-6b9540154a3f" />
+## (10/04) Resposta de 5 perguntas feitas a partir de dados abertos do estado de São Paulo
+Coleta de dados disponíveis no site da prefeitura de São José dos Campos e articulação de 5 perguntas e respostas
+<img width="521" height="37" alt="image" src="https://github.com/user-attachments/assets/37cfc9d7-8830-4297-8461-00a85d02c952" />
+<img width="342" height="39" alt="image" src="https://github.com/user-attachments/assets/0b6e11f7-448b-4dc7-bf70-743048c941a2" />
+<img width="306" height="270" alt="image" src="https://github.com/user-attachments/assets/650122aa-b39f-4abf-a925-48bfa14d0c22" />
+<img width="407" height="347" alt="image" src="https://github.com/user-attachments/assets/9920cd30-ba91-4925-b5d8-46468d27c092" />
+<img width="482" height="78" alt="image" src="https://github.com/user-attachments/assets/b40e9af4-aedc-4e78-9992-5e30ce52085c" />
 ## (12/04) Certiicado de conclusão de curso em Python via programa Aprenda
 <img width="1233" height="842" alt="image" src="https://github.com/user-attachments/assets/28e10276-982a-44e4-9758-e275b06e6d88" />
