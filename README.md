@@ -28,3 +28,8 @@ Coleta de dados disponíveis no site da prefeitura de São José dos Campos e ar
 ## (23/04) Aula de PowerBI
 Usando dados abertos de São Paulo para criar um visual da tabela através do PowerBI
 <img width="1156" height="651" alt="image" src="https://github.com/user-attachments/assets/3f53cc17-fd69-492e-b5e5-4c953824d84d" />
+## (30/04) Aula de PowerBI
+Usando dados abertos de São Paulo para criar três visuais da tabela através do PowerBI
+<img width="1302" height="740" alt="image" src="https://github.com/user-attachments/assets/156a1ab3-2755-4400-8f64-4bc6b85607d1" />
+<img width="1304" height="738" alt="image" src="https://github.com/user-attachments/assets/ae661d30-1895-4244-b740-70717c5cbb1a" />
+<img width="1299" height="735" alt="image" src="https://github.com/user-attachments/assets/834cdda0-f5f8-4324-b341-83a729d15543" />
