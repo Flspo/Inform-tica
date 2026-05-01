@@ -24,6 +24,7 @@ Coleta de dados disponíveis no site da prefeitura de São José dos Campos e ar
 <img width="482" height="78" alt="image" src="https://github.com/user-attachments/assets/b40e9af4-aedc-4e78-9992-5e30ce52085c" />
 ## (12/04) Certiicado de conclusão de curso em Python via programa Aprenda
 <img width="1233" height="842" alt="image" src="https://github.com/user-attachments/assets/28e10276-982a-44e4-9758-e275b06e6d88" />
+
 ## (23/04) Aula de PowerBI
 Usando dados abertos de São Paulo para criar um visual da tabela através do PowerBI
 <img width="1156" height="651" alt="image" src="https://github.com/user-attachments/assets/3f53cc17-fd69-492e-b5e5-4c953824d84d" />
