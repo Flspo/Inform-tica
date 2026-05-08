@@ -33,3 +33,7 @@ Usando dados abertos de São Paulo para criar três visuais da tabela através d
 <img width="1302" height="740" alt="image" src="https://github.com/user-attachments/assets/156a1ab3-2755-4400-8f64-4bc6b85607d1" />
 <img width="1304" height="738" alt="image" src="https://github.com/user-attachments/assets/ae661d30-1895-4244-b740-70717c5cbb1a" />
 <img width="1299" height="735" alt="image" src="https://github.com/user-attachments/assets/834cdda0-f5f8-4324-b341-83a729d15543" />
+
+## (07/05) Aula sobre PowerBI
+Utilizando as ferramentas do PowerBI para criar um Dashboard interativo sobre dados abertos de São Paulo
+<img width="1314" height="737" alt="image" src="https://github.com/user-attachments/assets/41fba0e4-1aca-4fc5-9214-2d6fc1aab8b9" />
