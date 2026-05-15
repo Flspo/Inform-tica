@@ -46,7 +46,7 @@ Manipulando os dados agora usando python através do Google Colab
 
 ## (15/05) Aula sobre comparação de coeficientes lineares
 Utilizando Excel e Colab para descobrir o principal fator que influência na qualidade do vinho
-Por Excel: 
+Por Excel: Sulfato
 <img width="751" height="423" alt="image" src="https://github.com/user-attachments/assets/f5a92495-8daa-4f6e-9323-8635f2c3f0a0" />
 <img width="750" height="439" alt="image" src="https://github.com/user-attachments/assets/b43e7c81-fa57-4f3f-b23d-6563dad25d59" />
 <img width="757" height="438" alt="image" src="https://github.com/user-attachments/assets/b7d221da-4d93-4c90-b953-06e568e06fea" />
