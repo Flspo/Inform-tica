@@ -44,3 +44,20 @@ Utilizando a ferramenta Excel para criar uma tabela para estudo de vendas de sor
 Manipulando os dados agora usando python através do Google Colab
 <img width="1862" height="817" alt="image" src="https://github.com/user-attachments/assets/39dd2167-7287-40b7-befc-9491c5869ae0" />
 
+## (15/05) Aula sobre comparação de coeficientes lineares
+Utilizando Excel e Colab para descobrir o principal fator que influência na qualidade do vinho
+Por Excel: 
+<img width="751" height="423" alt="image" src="https://github.com/user-attachments/assets/f5a92495-8daa-4f6e-9323-8635f2c3f0a0" />
+<img width="750" height="439" alt="image" src="https://github.com/user-attachments/assets/b43e7c81-fa57-4f3f-b23d-6563dad25d59" />
+<img width="757" height="438" alt="image" src="https://github.com/user-attachments/assets/b7d221da-4d93-4c90-b953-06e568e06fea" />
+<img width="751" height="442" alt="image" src="https://github.com/user-attachments/assets/0e418b8b-0b8d-4109-bde4-5fe16bde1423" />
+<img width="755" height="440" alt="image" src="https://github.com/user-attachments/assets/0ccf7d0a-e4a5-4f1f-93c3-4690b4d9b23f" />
+<img width="753" height="422" alt="image" src="https://github.com/user-attachments/assets/5e1ea12e-607f-4a40-82c8-c9bffd2e77f1" />
+<img width="752" height="420" alt="image" src="https://github.com/user-attachments/assets/9cd0fad5-d758-4408-9d2b-015a793520f4" />
+<img width="752" height="426" alt="image" src="https://github.com/user-attachments/assets/9e815e78-99d8-440f-8f53-d3c1ab19d2f9" />
+<img width="754" height="442" alt="image" src="https://github.com/user-attachments/assets/013d9418-d883-4455-8b94-11124ad32099" />
+<img width="755" height="439" alt="image" src="https://github.com/user-attachments/assets/e5eaacdd-a8bc-40a6-85f5-00de34e3b548" />
+
+Por Python: Density
+<img width="1834" height="745" alt="image" src="https://github.com/user-attachments/assets/f0dde708-a94b-42e6-84fa-598aff3313ca" />
+
