@@ -37,6 +37,8 @@ Usando dados abertos de São Paulo para criar três visuais da tabela através d
 ## (07/05) Aula sobre PowerBI
 Utilizando as ferramentas do PowerBI para criar um Dashboard interativo sobre dados abertos de São Paulo
 <img width="1314" height="737" alt="image" src="https://github.com/user-attachments/assets/41fba0e4-1aca-4fc5-9214-2d6fc1aab8b9" />
+Manipulando os dados agora usando python através do Google Colab
+<img width="1862" height="817" alt="image" src="https://github.com/user-attachments/assets/39dd2167-7287-40b7-befc-9491c5869ae0" />
 
 ## (14/05) Aula sobre regressão linear usando Excel
 Utilizando a ferramenta Excel para criar uma tabela para estudo de vendas de sorvete baseada na temperatura 
